@@ -5,8 +5,9 @@ Public media library for [SMMpro](https://smmpro.pk) social posts. Files here ar
 ## Structure
 
 ```
-images/   # graphics and photos (PNG, JPG, WebP, GIF)
-videos/   # videos (MP4, WebM, MOV)
+images/              # graphics and photos (PNG, JPG, WebP, GIF)
+videos/              # videos (MP4, WebM, MOV)
+logo-and-branding/   # official SMMpro logos and brand assets
 ```
 
 ## Rules
